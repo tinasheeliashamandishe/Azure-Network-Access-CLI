@@ -1,4 +1,4 @@
-<h1>Configure Network Access in Azure</h1>
+<h1>Configure Network Access in Azure using Cloud Shell</h1>
 
 <h2>Description</h2>
 This lab will create a Linux virtual machine in Azure using Azure CLI, and configure access to that virtual machine .
