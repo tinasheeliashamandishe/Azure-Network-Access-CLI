@@ -6,7 +6,7 @@ This lab will create a Linux virtual machine in Azure using Azure CLI, and confi
 
 <h2>Environments Used </h2>
 
-- <b>Microsoft Azure and Learn Sandobox</b>
+- <b>Microsoft Azure and Learn Sandbox</b>
 
 <h2>Lab walk-through:</h2>
 
