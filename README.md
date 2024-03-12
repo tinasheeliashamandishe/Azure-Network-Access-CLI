@@ -30,7 +30,10 @@ Run the command to configure Nginx on the VM<br/>
 Enter the command to get your VM's IP address and store result as Bash variable.
 <img src="https://i.imgur.com/nBUXmg6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
 Run curl command to download the homepage, After 5 seconds the connection will timeout, becaue VM was not accessible with the timeout period.
-<img src="https://i.imgur.com/0SNm38Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+<img src="https://i.imgur.com/DIILfQN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+Download your IP Address, and access it via a web browser. The connection will fail.
+<img src="https://i.imgur.com/iVIp1MR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+<img src="https://i.imgur.com/ZMI7nP0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
 <br />
 
 <h4>Step 5: List Network secuity group rules</h4>
@@ -49,8 +52,8 @@ Verify the updated list of rules.
 
 <h4>Step 5: Access your web server again</h4>
 Run the curl command to download the homepage
-<img src="https://i.imgur.com/Hk9dV1g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
-Verify the updated list of rules.
-<img src="https://i.imgur.com/Hk9dV1g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+<img src="https://i.imgur.com/FC53XU1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+Download your IP Address, and access it via a web browser. The connection will suceed.
+<img src="https://i.imgur.com/EUjUUpj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
 <br />
 
